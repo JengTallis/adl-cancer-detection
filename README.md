@@ -25,4 +25,8 @@ The public [GitHub Repository](https://github.com/JengTallis/adl-cancer-detectio
 ## Video
 The project [YouTube Video](https://youtu.be/ITjs99j0P14)
 
+## Google Drive
+- The neural network model h5 files are too large to be saved on GitHub
+- All trained models can be found in this [Google Drive folder](https://drive.google.com/open?id=11OR9OUHLW2S0YqlMnNipjnnSh7ypzDkx)
+
 
